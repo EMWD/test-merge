@@ -1,5 +1,5 @@
 import cowsay
-print(4)
+print(1)
 
 import cowsay2
 import cowsay
@@ -7,3 +7,4 @@ import cowsay
 import cowsay
 import cowsay
 import cowsay2
+print(1)
