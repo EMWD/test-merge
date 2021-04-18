@@ -1,4 +1,4 @@
-import cowsay
+import cowsay7
 print(1)
 
 import cowsay1
@@ -7,4 +7,4 @@ import cowsay
 import cowsay
 import cowsay
 import cowsay2
-import cowsay3
+import cowsay7
