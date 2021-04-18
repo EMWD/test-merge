@@ -1,2 +1,2 @@
 import cowsay
-print(2)
+    print(2)
