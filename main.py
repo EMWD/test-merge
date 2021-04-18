@@ -6,4 +6,4 @@ import cowsay
 import cowsay
 import cowsay
 import cowsay
-import cowsay
+import cowsay2
