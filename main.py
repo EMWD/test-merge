@@ -7,3 +7,4 @@ import cowsay
 import cowsay
 import cowsay
 import cowsay2
+import cowsay3
